@@ -1,0 +1,25 @@
+body {
+   font-family: 'Oswald', sans-serif;
+
+
+}
+.alert-container {
+
+}
+
+.callout-container {
+    height: 100vh;
+    background: url("../whiskey-background.jpg") no-repeat bottom right fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.quotes-container {
+
+}
+
+.features-container {
+
+}
